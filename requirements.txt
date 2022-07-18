@@ -3,3 +3,4 @@ pandas
 streamlit
 numpy
 keras.models
+pandas_datareader
