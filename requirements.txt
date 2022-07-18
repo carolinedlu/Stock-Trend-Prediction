@@ -1,6 +1,6 @@
 matplotlib
+matplotlib.pyplot
 pandas
-pyplot
 streamlit
 numpy
 keras.models
